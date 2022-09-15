@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/roll20-mods-directory/precache-manifest.fb8ab436678dfad9f020dd61bb6b52e3.js"
+  "/roll20-mods-directory/precache-manifest.61a77658c78cc52669b31e90a96e9f25.js"
 );
 
 self.addEventListener('message', (event) => {
