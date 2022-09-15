@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fdcfc777d87a66cc47340fda82f32dde",
+    "revision": "f5fd81f8bc8f4af1e968aaf08416d93d",
     "url": "/roll20-mods-directory/index.html"
   },
   {
-    "revision": "946c9ecbbabddfe4b169",
+    "revision": "7110374a7140edbd714a",
     "url": "/roll20-mods-directory/static/css/main.99af19dc.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/roll20-mods-directory/static/js/2.93daf6c1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "946c9ecbbabddfe4b169",
-    "url": "/roll20-mods-directory/static/js/main.cd2b8aae.chunk.js"
+    "revision": "7110374a7140edbd714a",
+    "url": "/roll20-mods-directory/static/js/main.b2ac812e.chunk.js"
   },
   {
     "revision": "dab1f7dfc16143841b3e",
