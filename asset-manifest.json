@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.css": "/roll20-mods-directory/static/css/main.efbb496d.chunk.css",
-    "main.js": "/roll20-mods-directory/static/js/main.c435b1d3.chunk.js",
-    "main.js.map": "/roll20-mods-directory/static/js/main.c435b1d3.chunk.js.map",
+    "main.css": "/roll20-mods-directory/static/css/main.28b22d51.chunk.css",
+    "main.js": "/roll20-mods-directory/static/js/main.13917389.chunk.js",
+    "main.js.map": "/roll20-mods-directory/static/js/main.13917389.chunk.js.map",
     "runtime-main.js": "/roll20-mods-directory/static/js/runtime-main.569e8087.js",
     "runtime-main.js.map": "/roll20-mods-directory/static/js/runtime-main.569e8087.js.map",
-    "static/js/2.93daf6c1.chunk.js": "/roll20-mods-directory/static/js/2.93daf6c1.chunk.js",
-    "static/js/2.93daf6c1.chunk.js.map": "/roll20-mods-directory/static/js/2.93daf6c1.chunk.js.map",
+    "static/js/2.2a7e1726.chunk.js": "/roll20-mods-directory/static/js/2.2a7e1726.chunk.js",
+    "static/js/2.2a7e1726.chunk.js.map": "/roll20-mods-directory/static/js/2.2a7e1726.chunk.js.map",
     "index.html": "/roll20-mods-directory/index.html",
-    "precache-manifest.61a77658c78cc52669b31e90a96e9f25.js": "/roll20-mods-directory/precache-manifest.61a77658c78cc52669b31e90a96e9f25.js",
+    "precache-manifest.424dbea40e3c17ec1fb687f0ec80aff6.js": "/roll20-mods-directory/precache-manifest.424dbea40e3c17ec1fb687f0ec80aff6.js",
     "service-worker.js": "/roll20-mods-directory/service-worker.js",
-    "static/css/main.efbb496d.chunk.css.map": "/roll20-mods-directory/static/css/main.efbb496d.chunk.css.map",
-    "static/js/2.93daf6c1.chunk.js.LICENSE.txt": "/roll20-mods-directory/static/js/2.93daf6c1.chunk.js.LICENSE.txt"
+    "static/css/main.28b22d51.chunk.css.map": "/roll20-mods-directory/static/css/main.28b22d51.chunk.css.map",
+    "static/js/2.2a7e1726.chunk.js.LICENSE.txt": "/roll20-mods-directory/static/js/2.2a7e1726.chunk.js.LICENSE.txt",
+    "static/media/campaign-settings.png": "/roll20-mods-directory/static/media/campaign-settings.dab24503.png",
+    "static/media/copyname.png": "/roll20-mods-directory/static/media/copyname.a313fd89.png",
+    "static/media/searchbox.png": "/roll20-mods-directory/static/media/searchbox.985fdf22.png"
   },
   "entrypoints": [
     "static/js/runtime-main.569e8087.js",
-    "static/js/2.93daf6c1.chunk.js",
-    "static/css/main.efbb496d.chunk.css",
-    "static/js/main.c435b1d3.chunk.js"
+    "static/js/2.2a7e1726.chunk.js",
+    "static/css/main.28b22d51.chunk.css",
+    "static/js/main.13917389.chunk.js"
   ]
 }
