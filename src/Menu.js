@@ -5,7 +5,7 @@ const Menu = ({ items }) => {
   return (
     <div className="section-center">
       {items.map((menuItem) => {
-        const { modId, modName, description } = menuItem
+        const { modId, modName, author, version, description } = menuItem
         return (
           <article key={modId} className="menu-item">
             {/* <img src={img} alt={modName} className="photo" /> */}
@@ -14,6 +14,8 @@ const Menu = ({ items }) => {
                 <ClipboardCopy copyText={modName} />
                 {/* <h4 className="price">{lastUpdated}</h4> */}
               </header>
+              <span className="author">by {author} |</span>
+              <span className="version"> v{version}</span>
               <p className="item-text">{description}</p>
             </div>
           </article>
