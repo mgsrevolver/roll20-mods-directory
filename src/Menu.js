@@ -8,14 +8,12 @@ const Menu = ({ items }) => {
         const { modId, modName, author, version, description } = menuItem
         return (
           <article key={modId} className="menu-item">
-            {/* <img src={img} alt={modName} className="photo" /> */}
             <div className="item-info">
-              <header>
+              <h1>
                 <ClipboardCopy copyText={modName} />
-                {/* <h4 className="price">{lastUpdated}</h4> */}
-              </header>
-              <span className="author">by {author} |</span>
-              <span className="version"> v{version}</span>
+              </h1>
+              <h4 className="author">by {author}</h4>
+              <span className="version">v{version}</span>
               <p className="item-text">{description}</p>
             </div>
           </article>
