@@ -3,15 +3,15 @@ import React from 'react'
 const Categories = ({ categories, filterItems }) => {
   return (
     <div className="btn-container">
-      {categories.map((modCategory, modId) => {
+      {categories.map((category, index) => {
         return (
           <button
             type="button"
             className="filter-btn"
-            key={modId}
-            onClick={() => filterItems(modCategory)}
+            key={index}
+            onClick={() => filterItems(category)}
           >
-            {modCategory}
+            {category}
           </button>
         )
       })}
